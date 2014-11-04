@@ -1,0 +1,14 @@
+{
+  "name": "cognos-report-xmlreader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/xmlreader.test.mocha.js"
+  },
+  "author": "Fabian Roloff <fabian.roloff@vocatus.de>",
+  "license": "ISC",
+  "dependencies": {
+    "edge": "^0.9.3"
+  }
+}
