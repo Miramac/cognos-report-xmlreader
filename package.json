@@ -9,6 +9,6 @@
   "author": "Fabian Roloff <fabian.roloff@vocatus.de>",
   "license": "ISC",
   "dependencies": {
-    "edge": "^0.9.3"
+    "edge": "^0.10.1"
   }
 }
